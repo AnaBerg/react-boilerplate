@@ -1,0 +1,15 @@
+# dependencies
+/node_modules
+
+# testing
+/coverage
+
+# production
+/dist
+
+# debug
+yarn-debug.log
+yarn-error.log
+
+# local env
+.env
